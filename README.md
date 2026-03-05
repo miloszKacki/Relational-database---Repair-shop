@@ -1,7 +1,7 @@
 ## What is this repo
 
 This project is a collection of scripts, that set up a database meant for an owner(and workers) of Car Mechanic's garage.
-You can also find here a folder with example queries made to showcase the functionalities of the db.
+You can also find here a folder with example queries made to showcase the functionalities of the db. The project was made for the needs of Data Bases course at Gdańsk Technical University.
 
 ## What does the database accomplish?
 
